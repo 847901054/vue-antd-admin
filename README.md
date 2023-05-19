@@ -6,21 +6,21 @@
 </p>
 
   <p align="center">
-    <a href="https://github.com/biubiubiu01/vue-antd-admin"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://github.com/847901054/vue-antd-admin"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
     <a href="http://gist006.gitee.io/vue-antd-admin/">在线预览</a>
     ·
-    <a href="https://github.com/biubiubiu01/vue-antd-admin/issues">提出Bug</a>
+    <a href="https://github.com/847901054/vue-antd-admin/issues">提出Bug</a>
     ·
-    <a href="https://github.com/biubiubiu01/vue-antd-admin/issues">提出建议</a>
+    <a href="https://github.com/847901054/vue-antd-admin/issues">提出建议</a>
   </p>
   
   
 ## 最近更新
 
 vue3-basic-admin 已完成：`vue3-basic-admin` 是一款开源开箱即用的中后台管理系统。基于 `Vue3`、`Vite`、`Element-Plus`、`TypeScript`、`Pinia` 等主流技术开发，内置许多开箱即用的组件，能快速构建中后台管理系统，目前决定完全开源，如果角色该项目对你有所帮助，可以点一个star,如果有一定的经济能力，可以请作者喝一杯咖啡，开源不易！
-欢迎预览和使用：<a href="https://github.com/biubiubiu01/vue3-basic-admin">vue3-basic-admin</a>
+欢迎预览和使用：<a href="https://github.com/847901054/vue3-basic-admin">vue3-basic-admin</a>
 ```
 
 1.优化之前版本的权限控制，菜单通过角色控制，可以给用户对应的角色和多角色
@@ -47,9 +47,9 @@ vue3-basic-admin 已完成：`vue3-basic-admin` 是一款开源开箱即用的�
 
 ```
 
-已实现基础版node+express+mysql后台，地址：[vue-antd-server](https://github.com/biubiubiu01/vue-antd-server)
+已实现基础版node+express+mysql后台，地址：[vue-antd-server](https://github.com/847901054/vue-antd-server)
 
-react版本，地址：[reacct-antd-admin](https://github.com/biubiubiu01/react-antd-admin)
+react版本，地址：[reacct-antd-admin](https://github.com/847901054/react-antd-admin)
 
 
 ## 前序准备
@@ -156,7 +156,7 @@ react版本，地址：[reacct-antd-admin](https://github.com/biubiubiu01/react-
 
 ```
 # 克隆项目
-git clone https://github.com/biubiubiu01/vue-antd-admin.git
+git clone https://github.com/847901054/vue-antd-admin.git
 # 进入项目目录
 cd vue-antd-admin
 # 安装依赖
@@ -182,20 +182,5 @@ npm run test:unit
 ## 最后
 
 这个项目参考了 [vue-element-admin](https://panjiachen.gitee.io/vue-element-admin/#/) 和 [ant-design-pro](https://preview.pro.antdv.com/dashboard/workplace),发现了好多好用的写法和方法，建议如果真想提升自己的代码水平，可以多看看大佬们的代码。
-开源不易，若觉得这个项目对你有用，可以点个[star](https://github.com/biubiubiu01/vue-antd-admin)，欢迎提出建议和bug :smile: 。
-
-
-## 捐赠
-
-开源不易，若觉得这个项目对你有用，可以点个[star](https://github.com/biubiubiu01/EchartsMap)，欢迎提出建议和bug :smile: 。如果这个项目对你有所帮助，可以给作者买杯咖啡，欢迎投喂，任意金额捐赠加好友问题咨询。
-
-<img src="https://i.328888.xyz/2023/02/28/zV27Q.jpeg" alt="alipay" width="250"><img src="https://i.328888.xyz/2023/02/28/zVw2H.jpeg" alt="wechat" width="250">
-
-
-## 扫码领大红包啦，有朋友领到88元大红包
-<img src="https://i.328888.xyz/2023/04/24/iSolbq.jpeg" alt="alipay" width="250">
-
-
-
-
+开源不易，若觉得这个项目对你有用，可以点个[star](https://github.com/847901054/vue-antd-admin)，欢迎提出建议和bug :smile: 。
 
